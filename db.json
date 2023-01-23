@@ -8,5 +8,9 @@
             "id": 2,
             "name": "martin"
         }
-    ]
+    ],
+    "info":{
+        "version": "0.0.1",
+        "developer": "Adro"
+    }
 }
